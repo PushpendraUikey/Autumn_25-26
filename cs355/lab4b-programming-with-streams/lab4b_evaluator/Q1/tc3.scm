@@ -1,0 +1,1 @@
+(stream-ref (stream-map (lambda (x) (* x x)) (stream-enumerate-interval 42 56)) 7)

@@ -1,0 +1,1 @@
+(take (stream-enumerate-interval 13 26) 5)

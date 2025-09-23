@@ -1,0 +1,1 @@
+(stream-ref (stream-enumerate-interval 1000 2000) 100)
