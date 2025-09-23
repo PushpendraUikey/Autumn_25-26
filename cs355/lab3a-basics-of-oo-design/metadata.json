@@ -1,0 +1,33 @@
+{
+	"lab_name": "Lab 3",
+	"questions": [
+		{
+			"name": "Q1",
+			"has_testcases": false,
+			"type": "java",
+			"main_file": "ShapeDemo.java",
+			"main_class": "ShapeDemo"
+		},
+		{
+			"name": "Q2",
+			"has_testcases": false,
+			"type": "java",
+			"main_file": "ShapeDemo.java",
+			"main_class": "ShapeDemo"
+		},
+		{
+			"name": "Q3",
+			"has_testcases": false,
+			"type": "java",
+			"main_file": "ShapeDemo.java",
+			"main_class": "ShapeDemo"
+		},
+		{
+			"name": "Q4",
+			"has_testcases": false,
+			"type": "java",
+			"main_file": "ShapeDemo.java",
+			"main_class": "ShapeDemo"
+		}
+	]
+}
